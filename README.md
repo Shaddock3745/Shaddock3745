@@ -7,6 +7,7 @@
 | 作品 | 說明 | 技術 |
 | --- | --- | --- |
 | [Warriors & Spells](https://github.com/Shaddock3745/ChessCard) | 西洋棋 × 卡牌構築的回合制策略遊戲，束搜尋 AI 規劃整回合行動 · [線上試玩](https://shaddock3745.itch.io/warriors-and-spells) | Unity 6、C#、WebGL |
+| [巧級 Tangrade](https://github.com/Shaddock3745/7_Puzzles_App) | 可驗證難度的七巧板 App：以「整數 ＋ 整數 × √2」精確座標判定拼圖，依形狀特徵算難度、以 ELO 算實力；入圍鈦坦敏捷開發特別獎決賽 | Unity 6、C#、ONNX |
 | [DASHYGO Adventure](https://github.com/Shaddock3745/DASHYGO-Adventure) | 高中專題：不用遊戲引擎的 2D 彈幕動作遊戲，自製 GJK 碰撞偵測 | Java Swing |
 | [掛號報到系統](https://github.com/huangtingway/NTUST_SE) | 團隊專案，負責 Android 報到平板：MVP 架構、身分證條碼掃描報到 | Android（Java）、CameraX、ML Kit |
 | [LED Editor](https://github.com/Shaddock3745/LED_Editor) | 接案作品：8×8×8 RGB LED 光立方的 3D 動畫編輯器，含補間動畫演算法 | JavaFX 3D |
